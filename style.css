@@ -1,7 +1,14 @@
-h1, h2, p {
+h1,
+h2,
+p {
     text-align: center;
 }
 
 body {
-    background-color: brown;
-  }
+    
+}
+
+div {
+    width: 300px;
+    background-color: burlywood;
+}
