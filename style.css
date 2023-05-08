@@ -20,6 +20,10 @@ hr {
     border-color: brown;
 }
 
+.bottom-line {
+    margin-top: 25px;
+}
+
 .menu {
     width: 80%;
     max-width: 500px;
